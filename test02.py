@@ -157,9 +157,9 @@ print(ret)
 # 钱包实现示例参考
 # https://gitee.com/shangqingdong/sugar
 
-# 助记词生成规则参考
+# 助记词生成规则示例
 # https://github.com/dabankio/wallet-core
 
-# 币的生成规则
+# 币的地址生成标准
 # https://github.com/satoshilabs/slips/blob/master/slip-0044.md
 # 548 	0x80000224 	BBC 	BigBang Core
