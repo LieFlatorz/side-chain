@@ -163,3 +163,8 @@ print(ret)
 # 币的地址生成标准
 # https://github.com/satoshilabs/slips/blob/master/slip-0044.md
 # 548 	0x80000224 	BBC 	BigBang Core
+
+# 地址生成
+# curl -d '{"id":42,"method":"makekeypair","jsonrpc":"2.0","params":{}}' http://124.221.253.93:6602
+
+
