@@ -169,7 +169,4 @@ print(ret)
 
 
 # 通过公钥得到地址
-# curl -d '{"id":44,"jsonrpc":"2.0","result":"1z6taz5dyrv2xa11pc92y0ggbrf2wf36gbtk8wjprb96qe3kqwfm3ayc1"}' http://124.221.253.93:6602
-
-
-
+# curl -d '{"id":44,"method":"getpubkeyaddress","jsonrpc":"2.0","params":{"pubkey":"e8e3770e774d5ad84a8ea65ed08cc7c5c30b42e045623604d5c5c6be95afb4f9"}}' http://124.221.253.93:6602
